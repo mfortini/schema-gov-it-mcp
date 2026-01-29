@@ -16,6 +16,10 @@
     "start": "node dist/index.js",
     "dev": "tsx src/index.ts"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_USERNAME/schema-gov-it-mcp.git"
+  },
   "keywords": [
     "mcp",
     "sparql",
